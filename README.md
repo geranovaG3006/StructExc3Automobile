@@ -78,7 +78,7 @@ int main()
     cin>>n;
     Automobile automobile[n];
     Automobile *q;
-    q=cars;
+    q=automobile;
     for(int i=0;i<n;i++)
     {
             cout<<"Brand: ";
